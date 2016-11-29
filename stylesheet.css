@@ -7,3 +7,19 @@ p{
  color:black;
  font-family:Arial;
 }
+#header {
+	z-index: 1;
+	position: fixed;
+	width:90%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: #ff3300;
+	margin-bottom: 10px;
+}
+#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 5px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #3366cc;
