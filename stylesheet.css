@@ -32,8 +32,8 @@ p{
 	font-family: Verdana, sans-serif;
 	color: #3366cc;
 }
-#id{
-	font-size:100px;
+#id p{
+	font-size:40px;
 }
 
 .left {
